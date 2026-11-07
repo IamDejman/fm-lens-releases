@@ -1,6 +1,6 @@
 # FM Lens releases
 
-Downloads of FM Lens, the Football Manager 27 companion for macOS. Download it from
+Downloads of FM Lens, the Football Manager 27 companion for macOS and Windows. Download it from
 [getfmlens.com](https://getfmlens.com), or get the
 [latest release](https://github.com/IamDejman/fm-lens-releases/releases/latest) here.
 
